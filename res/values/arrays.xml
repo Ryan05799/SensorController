@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="Level">
+
+        <item>Min</item>
+
+        <item>Normal</item>
+
+        <item>Max</item>
+
+    </string-array>
+
+</resources>

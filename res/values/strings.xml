@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SensorController</string>
+    <string name="title_section1">Control Panel</string>
+    <string name="title_section2">Record List</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="acc_enable">Enable Accel</string>
+    <string name="gyro_enable">Enable Gyro</string>
+    <string name="mag_enable">Enable Mag</string>
+    <string name="tag_rate">Sampling Rate</string>
+    <string name="acc_scale">Accel Scale</string>
+    <string name="gyro_scale">Gyro Scale</string>
+    <string name="txt_id">ID</string>
+    <string name="txt_msg">Message</string>
+    <string name="action_scan">Scan</string>
+    <string name="action_start">Start</string>
+    <string name="action_apply">Apply</string>
+    <string name="tag_battery_level">Battery Level   </string>
+    <string name="tag_device_name">Device Name</string>
+    <string name="tag_file_num"> files</string>
+    <string name="conn_status_disconnected">Disconnected</string>
+    <string name="conn_status_offline">Offline</string>
+    <string name="conn_status_connected">connected</string>
+
+</resources>
